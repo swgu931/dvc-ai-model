@@ -1,0 +1,4 @@
+outs:
+- md5: 8b51d5ac01fbe97662b2a2b90f6e840f
+  size: 207
+  path: detector_node_params.yaml

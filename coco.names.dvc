@@ -1,0 +1,4 @@
+outs:
+- md5: 8fc50561361f8bcf96b0177086e7616c
+  size: 625
+  path: coco.names
