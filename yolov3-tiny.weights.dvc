@@ -1,0 +1,4 @@
+outs:
+- md5: 3bcd6b390912c18924b46b26a9e7ff53
+  size: 35434956
+  path: yolov3-tiny.weights

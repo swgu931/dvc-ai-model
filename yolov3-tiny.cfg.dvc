@@ -1,0 +1,4 @@
+outs:
+- md5: 5c837d89621cc057832c3ae83f6b96ac
+  size: 1915
+  path: yolov3-tiny.cfg
