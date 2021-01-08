@@ -1,0 +1,2 @@
+['remote "dvc-origin"']
+    url = ssh://sewan.gu@112.220.105.114:~/dvc-ai-model
